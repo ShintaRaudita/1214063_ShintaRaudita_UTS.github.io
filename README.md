@@ -87,7 +87,8 @@ function PushButton(){
   PostSignUp(nama1,nama2,email,password,negara);
 }
 ```
-
+  
+  
 # 8. Test dengan Open with Live Server
 1. Buka file dengan Open with Live Server
 2. Inspect dan buka tab console
@@ -100,4 +101,6 @@ function PushButton(){
 
 # 10. Sertakan link Github Pages
 Berikut adalah link Github Pages dari repository saya.
-https://shintaraudita.github.io/1214063_ShintaRaudita_UTS.github.io/
+https://shintaraudita.github.io/
+
+---------------
