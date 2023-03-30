@@ -78,7 +78,7 @@ function PostSignUp(nama1,nama2,email,password,negara){
 fungsi PushButton() untuk melakukan aksi setelah menekan tombol, pada bagian html button ditambahkan atribut onclick.
 
 ```
-function PushButton(){
+function PushButton(){ 
   nama1=document.getElementById("nama1").value;
   nama2=document.getElementById("nama2").value;
   email=document.getElementById("email").value;
